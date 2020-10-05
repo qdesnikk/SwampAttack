@@ -46,5 +46,5 @@ MonoBehaviour:
   _label: "\u0414\u0440\u043E\u0431\u043E\u0432\u0438\u043A"
   _price: 2
   _icon: {fileID: 21300000, guid: ab041c52fa8a35e47b63b4c6c177a6b0, type: 3}
-  _isBuyed: 1
+  _isBuyed: 0
   Bullet: {fileID: 7411000815468289610, guid: ec9a4d76b4aaaf54d8f92e22c8aeb86d, type: 3}
