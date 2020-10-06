@@ -3328,6 +3328,10 @@ MonoBehaviour:
       type: 3}
     Delay: 0.5
     Count: 10
+  - Template: {fileID: 4678380134408861227, guid: 443de926cab0a1b4ca5d56e311557e05,
+      type: 3}
+    Delay: 3
+    Count: 3
   _spawnPoint: {fileID: 852235163}
   _player: {fileID: 1456784572}
 --- !u!4 &852235163
@@ -5225,7 +5229,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _health: 100
   _weapons:
-  - {fileID: 7070955490913520096, guid: 82b0800c64bee5e43b46d2809dbf3131, type: 3}
+  - {fileID: 5139609667486426650, guid: a2347288d10883545b9803f3ccd72c49, type: 3}
   _shootPoint: {fileID: 1965363132}
 --- !u!1 &1496237992
 GameObject:
